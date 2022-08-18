@@ -21,9 +21,9 @@ Original Model Results
 268/268 - 0s - loss: 0.5574 - accuracy: 0.7291 - 194ms/epoch - 726us/step
 Loss: 0.5574021339416504, Accuracy: 0.7290962338447571
 
-Alternative Model 2 Results
-268/268 - 0s - loss: 0.5634 - accuracy: 0.7305 - 308ms/epoch - 1ms/step
-Loss: 0.5633548498153687, Accuracy: 0.7304956316947937
+Alternative Model 1 Results
+268/268 - 0s - loss: 0.5585 - accuracy: 0.7304 - 282ms/epoch - 1ms/step
+Loss: 0.558506429195404, Accuracy: 0.7303789854049683
 
 Alternative Model 2 Results
 268/268 - 0s - loss: 0.5634 - accuracy: 0.7305 - 308ms/epoch - 1ms/step
